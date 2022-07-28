@@ -8,6 +8,7 @@ public class MyPageApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MyPageApplication.class, args);
+		System.out.println("깃커밋 확인");
 	}
 
 }
